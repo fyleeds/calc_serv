@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  calc:
+    build: .
+    volumes:
+      - ../:/app
+    environment:
+      - CALC_PORT=13337
+
