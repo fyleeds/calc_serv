@@ -76,3 +76,4 @@ Dans le dossier docker executez :
 ```bash
 docker compose down 
 ```
+![CATDANCEEDM](https://imgflip.com/gif/8ezrpy)
