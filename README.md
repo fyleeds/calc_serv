@@ -11,12 +11,10 @@ Ce document fournit des instructions pour tester le projet en récupérant une i
 
 - Avoir Docker installé sur votre machine. Pour l'installation, suivez les instructions sur [Docker](https://docs.docker.com/get-docker/).
 - Avoir Docker Compose installé. Pour l'installation, consultez [Docker Compose](https://docs.docker.com/compose/install/).
-- Accès à Docker Hub 
 
 ### WINDOWS
 
 - Docker installé sur votre machine Windows.
-- Accès à Docker Hub
 - **- UN TERMINAL GITBASH pour executez toutes les commandes**
 
 ## GUIDE INSTALLATION & LANCEMENT PROJET
@@ -78,7 +76,3 @@ Dans le dossier docker executez :
 ```bash
 docker compose down 
 ```
-
-### Conclusion
-
-Vous avez maintenant déployé avec succès l'application ecommerce avec une base de données MySQL et phpMyAdmin pour la gestion de la base de données. Pour toute modification ou mise à jour, assurez-vous de redémarrer les services pour appliquer les changements.
