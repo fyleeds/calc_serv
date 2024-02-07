@@ -58,7 +58,7 @@ services:
 
 Restez sur le terminal et naviguez vers le dossier "docker" dans le projet : 
 ```bash
-cd chemin/vers/dossier_de_clone/docker
+cd chemin/vers/dossier_de_clone/calc_build
 ```
 Puis déployez le site avec la commande : 
 ```bash
